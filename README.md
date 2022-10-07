@@ -1,4 +1,4 @@
-![IMG_3770](https://user-images.githubusercontent.com/106086831/194662112-960f78eb-1816-4230-85f3-147697c4f19b.jpeg)
+
 
 
 - 👋 Hi, I’m @Roxana
