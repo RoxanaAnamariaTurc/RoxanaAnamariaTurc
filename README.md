@@ -7,7 +7,7 @@
           and I am currently enrolled in a blended learning Computing course with Arden University
           - 💞️ I’m looking to collaborate on projects where I can work on my technical skills and where 
           I can put to great use my soft skills
-          - 📫 roxana.turc25@gmail.com
+          
 
 
 
