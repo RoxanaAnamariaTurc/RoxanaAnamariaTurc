@@ -15,6 +15,7 @@
 🤝 I love collaborating on projects that challenge me technically and value strong communication and teamwork.
 
 🚀 Always open to exciting frontend projects and opportunities to grow.
+
 📫 Let’s connect and create something impactful!
 
 
