@@ -1,20 +1,18 @@
 
 
 
-👋 Hi, I’m @Roxana
+👋 Hi, I’m Roxana
+💼 Frontend Engineer at BNY, part of the graduate scheme
+💻 Passionate about clean code, modern UI, and performance
 
-🎓 Final-year Computing student at Arden University
+🌟 Recently completed a Frontend Development internship at Grafana Labs, contributing to open-source and design systems. Previously graduated from a rigorous Software Engineering bootcamp.
 
-🌐 Passionate about technology and creating stunning websites and applications.
+🛠 With 2+ years of hands-on coding experience, I build accessible, performant web apps using React, TypeScript, Storybook, and Vanilla Extract CSS. Currently focusing on state management (MobX), testing (Jest, RTL), and open-source contributions.
 
-🚀 Recently completed a Frontend Development internship with Grafana Labs and previously graduated from a rigorous Software Engineering bootcamp.
+🤝 I love collaborating on projects that challenge me technically and value strong communication and teamwork.
 
-💻 Two years into the exciting world of coding and constantly honing my skills.
-
-🤝 Open to collaboration on projects that challenge my technical abilities and allow me to leverage my strong soft skills.
-
-Let's code and create something amazing together!
-
+🚀 Always open to exciting frontend projects and opportunities to grow.
+📫 Let’s connect and create something impactful!
 
 
 
